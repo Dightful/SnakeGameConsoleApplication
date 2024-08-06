@@ -1,4 +1,0 @@
-﻿  SnakeGameConsoleApplication.cpp
-D:\0Good\coding\c++\Projects\SnakeGame2\SnakeGameConsoleApplication\SnakeGameConsoleApplication.cpp(171,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
-D:\0Good\coding\c++\Projects\SnakeGame2\SnakeGameConsoleApplication\SnakeGameConsoleApplication.cpp(175,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
-  SnakeGameConsoleApplication.vcxproj -> D:\0Good\coding\c++\Projects\SnakeGame2\SnakeGameConsoleApplication\x64\Debug\SnakeGameConsoleApplication.exe
